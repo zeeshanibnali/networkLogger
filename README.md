@@ -1,5 +1,7 @@
-#Bismillah ir Rahman ir Raheem
+##Bismillah ir Rahman ir Raheem
+
 ## Network Logger
+Log the network transactions happening in your pc.
 To run this file.
  - Download node.js(better go with LTS).
  - Install yarn by executing: npm i -g yarn
